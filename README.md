@@ -1,0 +1,2 @@
+# Snowflake-snowpro
+### 1_hands_on - This is a SQL script that uses role-based access control (RBAC) and privilege management in Snowflake. It creates a new database, schema, and table, defines a custom role with various privileges, and assigns a new user to the role. It also shows how to grant and revoke privileges and automate privilege management with future grants. The script can be used as a template for RBAC in Snowflake.
